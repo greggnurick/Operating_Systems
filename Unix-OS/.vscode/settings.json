@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hilevel.h": "c",
+        "waiter.h": "c",
+        "pl011.h": "c"
+    }
+}
